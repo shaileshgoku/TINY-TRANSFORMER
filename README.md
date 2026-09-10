@@ -8,7 +8,7 @@ The goal of this project is not to build a production-grade LLM, but to understa
 
 ## Transformer Architecture
 
-![Tiny Transformer Architecture](transformer-architecture.png)
+![Tiny Transformer Architecture](transformer_architecture.png)
 
 This project demonstrates the complete flow of a small language model:
 

@@ -1,0 +1,1 @@
+{"token_to_id": {"<END>": 0, "Cats": 1, "Dogs": 2, "I": 3, "are": 4, "cats": 5, "cute": 6, "dogs": 7, "food": 8, "friendly": 9, "love": 10}, "id_to_token": {"0": "<END>", "1": "Cats", "2": "Dogs", "3": "I", "4": "are", "5": "cats", "6": "cute", "7": "dogs", "8": "food", "9": "friendly", "10": "love"}}
